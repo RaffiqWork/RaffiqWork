@@ -2,7 +2,7 @@
 
 # `> ACCESSING RAFFIQ'S_MAIN_FRAME...`
   
-![Cyberpunk DevOps Banner](github_profile/banner.png)
+![Cyberpunk DevOps Banner](https://raw.githubusercontent.com/RaffiqWork/RaffiqWork/main/github_profile/banner.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Optimization+Specialist;Full-Stack+Architect;Automation+Wizard;%3E+INITIALIZING+DEVOPS_PROTOCOL...;%3E+SCANNING+CLOUD_INFRASTRUCTURE...;%3E+83%2B+SCRIPTS+LOADED...;%3E+SYSTEM+STATUS%3A+OPTIMIZED)](https://git.io/typing-svg)
 
@@ -55,11 +55,11 @@
 
 <div align="center">
 
-[![Raffiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaffiqWork&show_icons=true&theme=tokyonight&count_private=true&hide_border=false)](https://github.com/RaffiqWork)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffiqWork&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/RaffiqWork)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaffiqWork&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+| 📊 **GitHub Stats** | 🏆 **GitHub Streak** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=RaffiqWork&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaffiqWork&theme=tokyonight&hide_border=true" height="150" /> |
+| **Most Used Languages** | **Profile Views** |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffiqWork&layout=compact&theme=tokyonight&hide_border=true" height="150" /> | <img src="https://komarev.com/ghpvc/?username=RaffiqWork&color=FF0055&style=flat-square&label=PROFILE+VIEWS" height="30" /> |
 
 </div>
 
