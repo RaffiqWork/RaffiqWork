@@ -79,13 +79,13 @@
 
 ## `[03] >> FEATURED_CYBER_PROJECTS`
 
-### 🛸 [Clone Station v2](https://github.com/raffiqzaffri)
+### 🛸 [Clone Station v2]
 > Enterprise-grade disk cloning platform. 6 parallel stations, real-time WebSocket monitoring, and 40% reduced downtime. Built with **FastAPI**, **React**, and **TypeScript**.
 
-### 🛠️ [DevOps Infra Suite](https://github.com/raffiqzaffri)
+### 🛠️ [DevOps Infra Suite]
 > A collection of **83+ scripts** for Proxmox VE, NVIDIA vGPU, WireGuard, and automation. The definitive toolkit for modern infrastructure management.
 
-### 👁️ [Vision 2](https://github.com/raffiqzaffri)
+### 👁️ [Vision 2]
 > Computer Vision & Streaming platform featuring RTSP to WebRTC conversion and PTZ control.
 
 ---
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raffiqzaffri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RaffiqWork)
 [![Email](https://img.shields.io/badge/Email-Encrypted_Link-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raffiq.cloud@example.com)
 
 `> DISCONNECTING...`
