@@ -53,14 +53,22 @@
 
 <div align="center">
 
-### `[02] >> NEON_STATS_DASHBOARD`
+### `[02] >> SYSTEM_DIAGNOSTIC_REPORT`
 
-| 📊 **GitHub Stats** | 🏆 **GitHub Streak** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=RaffiqWork&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&is_org=true" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaffiqWork&theme=tokyonight&hide_border=true" width="400" /> |
+| 🖥️ **CORE_METRICS** | ⚙️ **AUTOMATION_LOAD** |
+| :--- | :--- |
+| `[PROJECTS]` **16+ Production Deployments** | `[SCRIPTS]` **300+ Bash/Python Scripts** |
+| `[EFFICIENCY]` **40% Faster Deployment** | `[MONITORING]` **16+ Active Systems** |
+| `[EXPERIENCE]` **2+ Years in DevOps** | `[UPTIME]` **40% Improved Reliability** |
 
-### `// LANGUAGE_COMPOSITION`
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffiqWork&layout=compact&theme=tokyonight&hide_border=true&is_org=true" width="500" />
+<br/>
+
+### `// TECH_STACK_DENSITY`
+[![Python](https://img.shields.io/badge/Python-30%25-FFD43B?style=flat-square&logo=python)](https://github.com/RaffiqWork)
+[![Bash](https://img.shields.io/badge/Bash-25%25-4EAA25?style=flat-square&logo=gnu-bash)](https://github.com/RaffiqWork)
+[![React](https://img.shields.io/badge/React-20%25-61DAFB?style=flat-square&logo=react)](https://github.com/RaffiqWork)
+[![FastAPI](https://img.shields.io/badge/FastAPI-15%25-05998B?style=flat-square&logo=fastapi)](https://github.com/RaffiqWork)
+[![Docker](https://img.shields.io/badge/Docker-10%25-2496ED?style=flat-square&logo=docker)](https://github.com/RaffiqWork)
 
 ### `// SYSTEM_VISIBILITY`
 <img src="https://komarev.com/ghpvc/?username=RaffiqWork&color=FF0055&style=flat-square&label=PROFILE+VIEWS" />
