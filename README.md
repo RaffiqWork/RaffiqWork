@@ -51,15 +51,19 @@
 
 ---
 
-## `[02] >> NEON_STATS_DASHBOARD`
-
 <div align="center">
+
+### `[02] >> NEON_STATS_DASHBOARD`
 
 | 📊 **GitHub Stats** | 🏆 **GitHub Streak** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=RaffiqWork&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaffiqWork&theme=tokyonight&hide_border=true" height="150" /> |
-| **Most Used Languages** | **Profile Views** |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffiqWork&layout=compact&theme=tokyonight&hide_border=true" height="150" /> | <img src="https://komarev.com/ghpvc/?username=RaffiqWork&color=FF0055&style=flat-square&label=PROFILE+VIEWS" height="30" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=RaffiqWork&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&is_org=true" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaffiqWork&theme=tokyonight&hide_border=true" width="400" /> |
+
+### `// LANGUAGE_COMPOSITION`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffiqWork&layout=compact&theme=tokyonight&hide_border=true&is_org=true" width="500" />
+
+### `// SYSTEM_VISIBILITY`
+<img src="https://komarev.com/ghpvc/?username=RaffiqWork&color=FF0055&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
