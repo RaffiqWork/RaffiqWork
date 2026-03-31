@@ -55,11 +55,11 @@
 
 <div align="center">
 
-[![Raffiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raffiqzaffri&show_icons=true&theme=tokyonight&count_private=true&hide_border=false)](https://github.com/raffiqzaffri)
+[![Raffiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaffiqWork&show_icons=true&theme=tokyonight&count_private=true&hide_border=false)](https://github.com/RaffiqWork)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffiqzaffri&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/raffiqzaffri)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffiqWork&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/RaffiqWork)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raffiqzaffri&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaffiqWork&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
